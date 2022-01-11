@@ -1,0 +1,237 @@
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.exe
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.deps.json
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.runtimeconfig.json
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.runtimeconfig.dev.json
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.pdb
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.Views.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.Views.pdb
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.csprojAssemblyReference.cache
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\staticwebassets\SildeBar.StaticWebAssets.Manifest.cache
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\staticwebassets\SildeBar.StaticWebAssets.xml
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.RazorAssemblyInfo.cache
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.RazorAssemblyInfo.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.AssemblyInfoInputs.cache
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.AssemblyInfo.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.TagHelpers.input.cache
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.TagHelpers.output.cache
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.RazorCoreGenerate.cache
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.RazorTargetAssemblyInfo.cache
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.RazorTargetAssemblyInfo.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.Views.pdb
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.pdb
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.csproj.CopyComplete
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Dashboard1.cshtml.g.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DataTable.cshtml.g.cs
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SOKPOV\source\repos\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.exe
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.deps.json
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.runtimeconfig.json
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.runtimeconfig.dev.json
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.pdb
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.Views.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\SildeBar.Views.pdb
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.csproj.AssemblyReference.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.AssemblyInfoInputs.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.AssemblyInfo.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.RazorAssemblyInfo.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.RazorAssemblyInfo.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\staticwebassets\SildeBar.StaticWebAssets.Manifest.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\staticwebassets\SildeBar.StaticWebAssets.xml
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\scopedcss\bundle\SildeBar.styles.css
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.TagHelpers.input.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.TagHelpers.output.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.RazorCoreGenerate.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Dashboard1.cshtml.g.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DataTable.cshtml.g.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.RazorTargetAssemblyInfo.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.RazorTargetAssemblyInfo.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.Views.pdb
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.csproj.CopyComplete
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.pdb
+C:\Users\mauri\OneDrive\Área de Trabalho\Mau\UNIP\4 semestre\PIM\Web\SildeBar\SildeBar\obj\Debug\netcoreapp3.1\SildeBar.genruntimeconfig.cache
